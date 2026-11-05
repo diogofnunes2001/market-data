@@ -1,6 +1,10 @@
 name: Update market data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'config/tickers.json'
   workflow_dispatch:
   schedule:
     # UTC candidates; schedule_gate checks Europe/Lisbon local time.
@@ -24,7 +28,7 @@ jobs:
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
-          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+          if [ "$EVENT_NAME" = "workflow_dispatch" ] || [ "$EVENT_NAME" = "push" ]; then
             echo "should_run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
