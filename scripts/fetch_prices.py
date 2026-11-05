@@ -8,7 +8,9 @@ from zoneinfo import ZoneInfo
 
 import yfinance as yf
 
-SYMBOLS = [s.strip() for s in os.getenv("MARKET_SYMBOLS", "SXR8.DE,EUNL.DE").split(",") if s.strip()]
+from watchlist import get_symbols
+
+SYMBOLS = get_symbols()
 OUTPUT = Path("data/prices.json")
 LISBON = ZoneInfo("Europe/Lisbon")
 
