@@ -3,7 +3,7 @@ name: Update market data
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions supports timezone-aware schedules.\n    - cron: '50 16 * * 1-5'\n      timezone: 'Europe/Lisbon'
+    # GitHub Actions supports timezone-aware schedules.\n    - cron: '45 16 * * 1-5'\n      timezone: 'Europe/Lisbon'
 
 permissions:
   contents: write
