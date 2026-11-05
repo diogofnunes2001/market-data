@@ -1,0 +1,30 @@
+{
+  "generated_at_utc": "2026-11-05T16:52:33.061177+00:00",
+  "quotes": {
+    "SXR8.DE": {
+      "symbol": "SXR8.DE",
+      "currency": "EUR",
+      "price": 719.94,
+      "previous_close": 738.44,
+      "change": -18.5,
+      "change_percent": -2.5053,
+      "last_bar_time_lisbon": "2026-11-05T16:29:00+00:00",
+      "last_bar_time_utc": "2026-11-05T16:29:00+00:00",
+      "bar_interval": "1m",
+      "source": "Yahoo Finance via yfinance (unofficial; may be delayed)"
+    },
+    "EUNL.DE": {
+      "symbol": "EUNL.DE",
+      "currency": "EUR",
+      "price": 127.65,
+      "previous_close": 130.48,
+      "change": -2.83,
+      "change_percent": -2.1689,
+      "last_bar_time_lisbon": "2026-11-05T16:29:00+00:00",
+      "last_bar_time_utc": "2026-11-05T16:29:00+00:00",
+      "bar_interval": "1m",
+      "source": "Yahoo Finance via yfinance (unofficial; may be delayed)"
+    }
+  },
+  "errors": {}
+}

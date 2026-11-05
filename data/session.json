@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-11-05T16:52:25.332518+00:00",
+  "sessions": {
+    "SXR8.DE": {
+      "symbol": "SXR8.DE",
+      "session_date_exchange": "2026-11-05",
+      "open": 737.76,
+      "high": 741.98,
+      "low": 710.9,
+      "last": 719.94,
+      "session_range_percent": 4.3719,
+      "from_open_percent": -2.4154,
+      "below_session_high_percent": -2.9704,
+      "above_session_low_percent": 1.2716,
+      "volume": 59791,
+      "volume_unit": "shares",
+      "last_bar_time_lisbon": "2026-11-05T16:29:00+00:00",
+      "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
+    },
+    "EUNL.DE": {
+      "symbol": "EUNL.DE",
+      "session_date_exchange": "2026-11-05",
+      "open": 130.43,
+      "high": 131.035,
+      "low": 126.3,
+      "last": 127.65,
+      "session_range_percent": 3.749,
+      "from_open_percent": -2.1314,
+      "below_session_high_percent": -2.5833,
+      "above_session_low_percent": 1.0689,
+      "volume": 408279,
+      "volume_unit": "shares",
+      "last_bar_time_lisbon": "2026-11-05T16:29:00+00:00",
+      "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
+    }
+  },
+  "errors": {}
+}
