@@ -1,12 +1,46 @@
 {
-  "description": "Dynamic watchlist selected from relevant market news. SXR8.DE and EUNL.DE are always included.",
+  "description": "News-driven watchlist for the 17:00 Europe/Lisbon market report; quotes are indicative and may be delayed.",
   "tickers": [
     "SXR8.DE",
-    "EUNL.DE"
+    "EUNL.DE",
+    "^GSPC",
+    "^IXIC",
+    "^SOX",
+    "NVDA",
+    "AMD",
+    "QCOM",
+    "CRWV",
+    "APP",
+    "ASML.AS",
+    "RHM.DE",
+    "MT.AS",
+    "BZ=F",
+    "GC=F",
+    "^VIX",
+    "MSFT",
+    "AMZN",
+    "TSLA"
   ],
-  "updated_for": "baseline",
+  "updated_for": "2026-11-05",
   "selection_reasons": {
-    "SXR8.DE": "Core S&P 500 ETF",
-    "EUNL.DE": "Core MSCI World ETF"
+    "SXR8.DE": "ETF permanente S&P 500",
+    "EUNL.DE": "ETF permanente MSCI World",
+    "^GSPC": "Referência S&P 500 na venda de ações norte-americanas",
+    "^IXIC": "Nasdaq Composite e pressão sobre tecnologia",
+    "^SOX": "Índice de semicondutores sob forte pressão",
+    "NVDA": "Exposição a chips e investimento em IA",
+    "AMD": "Venda acentuada no setor de semicondutores",
+    "QCOM": "Resultados e vendas de chips para smartphones abaixo do esperado",
+    "CRWV": "Infraestrutura de IA e centros de dados",
+    "APP": "Resultados acima das expectativas e revisão de perspetivas",
+    "ASML.AS": "Exposição europeia à cadeia de semicondutores",
+    "RHM.DE": "Corte nas previsões de vendas e pressão sobre defesa europeia",
+    "MT.AS": "ArcelorMittal e resultados industriais",
+    "BZ=F": "Futuros de Brent e volatilidade geopolítica",
+    "GC=F": "Futuros do ouro como referência de proteção",
+    "^VIX": "Volatilidade implícita do mercado norte-americano",
+    "MSFT": "Grandes fornecedores cloud e investimento em centros de dados",
+    "AMZN": "Exposição à infraestrutura cloud",
+    "TSLA": "Reação das ações da Tesla após eleições norte-americanas"
   }
 }
