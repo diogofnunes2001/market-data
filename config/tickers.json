@@ -1,0 +1,12 @@
+{
+  "description": "Dynamic watchlist selected from relevant market news. SXR8.DE and EUNL.DE are always included.",
+  "tickers": [
+    "SXR8.DE",
+    "EUNL.DE"
+  ],
+  "updated_for": "baseline",
+  "selection_reasons": {
+    "SXR8.DE": "Core S&P 500 ETF",
+    "EUNL.DE": "Core MSCI World ETF"
+  }
+}
