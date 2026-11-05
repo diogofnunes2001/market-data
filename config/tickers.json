@@ -1,5 +1,5 @@
 {
-  "description": "News-driven watchlist for the 17:00 Europe/Lisbon market report; quotes are indicative and may be delayed.",
+  "description": "News-driven watchlist with 10 permanent ETFs/commodity futures/US yield indices; 15 additional news-driven symbols maximum. Yahoo Finance quotes may be delayed. ^IRX/^FVX/^TNX/^TYX are yield indices, not bond prices; verify scaling.",
   "tickers": [
     "SXR8.DE",
     "EUNL.DE",
@@ -19,7 +19,13 @@
     "^VIX",
     "MSFT",
     "AMZN",
-    "TSLA"
+    "TSLA",
+    "SI=F",
+    "CL=F",
+    "^IRX",
+    "^FVX",
+    "^TNX",
+    "^TYX"
   ],
   "updated_for": "2026-11-05",
   "selection_reasons": {
@@ -41,6 +47,12 @@
     "^VIX": "Volatilidade implícita do mercado norte-americano",
     "MSFT": "Grandes fornecedores cloud e investimento em centros de dados",
     "AMZN": "Exposição à infraestrutura cloud",
-    "TSLA": "Reação das ações da Tesla após eleições norte-americanas"
+    "TSLA": "Reação das ações da Tesla após eleições norte-americanas",
+    "SI=F": "Prata: futuros COMEX USD por onça troy",
+    "CL=F": "Petróleo WTI: futuros USD por barril",
+    "^IRX": "Índice de rendimento Treasury Bill EUA 13 semanas (verificar escala e unidade)",
+    "^FVX": "Índice de rendimento Treasury EUA 5 anos (verificar escala e unidade)",
+    "^TNX": "Índice de rendimento Treasury EUA 10 anos (verificar escala e unidade)",
+    "^TYX": "Índice de rendimento Treasury EUA 30 anos (verificar escala e unidade)"
   }
 }
