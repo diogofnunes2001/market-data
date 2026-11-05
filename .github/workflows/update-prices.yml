@@ -13,7 +13,26 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  schedule_gate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify Lisbon local schedule
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then exit 0; fi
+          local_time=$(TZ=Europe/Lisbon date +%H:%M)
+          echo "Lisbon time: $local_time"
+          # Allow a 20-minute scheduling delay, but reject the other UTC candidate.
+          hour=$(TZ=Europe/Lisbon date +%H)
+          minute=$(TZ=Europe/Lisbon date +%M)
+          if [ "$hour" != "16" ] || [ "$minute" -lt 45 ]; then
+            echo "Not the 16:45 Lisbon run; skip this scheduled candidate."
+            exit 1
+          fi
+
   quotes:
+    needs: schedule_gate
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -31,6 +50,7 @@ jobs:
           retention-days: 1
 
   session:
+    needs: schedule_gate
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -48,6 +68,7 @@ jobs:
           retention-days: 1
 
   technical:
+    needs: schedule_gate
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
