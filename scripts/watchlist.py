@@ -1,10 +1,10 @@
-"""Shared dynamic watchlist with permanent core ETFs."""
+"""Shared dynamic watchlist with permanent ETFs, commodities and US Treasury yield indices."""
 import json
 import os
 import re
 from pathlib import Path
 
-CORE = ("SXR8.DE", "EUNL.DE")
+CORE = ("SXR8.DE", "EUNL.DE", "GC=F", "SI=F", "BZ=F", "CL=F", "^IRX", "^FVX", "^TNX", "^TYX")
 PATTERN = re.compile(r"^[A-Za-z0-9^][A-Za-z0-9.^=\-]{0,24}$")
 
 def get_symbols():
