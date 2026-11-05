@@ -1,0 +1,41 @@
+name: Update market prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    # UTC; runs every 15 minutes during European market hours on weekdays.
+    - cron: '*/15 7-17 * * 1-5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Fetch quotes
+        run: python scripts/fetch_prices.py
+      - name: Commit refreshed JSON
+        run: |
+          if git diff --quiet -- data/prices.json && [ -f data/prices.json ]; then
+            echo "No data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update market prices"
+          git push
