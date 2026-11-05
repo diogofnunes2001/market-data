@@ -7,7 +7,9 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 import yfinance as yf
 
-SYMBOLS = [s.strip() for s in os.getenv("MARKET_SYMBOLS", "SXR8.DE,EUNL.DE").split(",") if s.strip()]
+from watchlist import get_symbols
+
+SYMBOLS = get_symbols()
 OUT = Path("data/session.json")
 TZ = ZoneInfo("Europe/Lisbon")
 
