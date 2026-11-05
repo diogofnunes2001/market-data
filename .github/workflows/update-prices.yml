@@ -15,24 +15,29 @@ concurrency:
 jobs:
   schedule_gate:
     runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
     steps:
-      - name: Verify Lisbon local schedule
+      - name: Check Lisbon local time
+        id: check
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
-          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then exit 0; fi
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           local_time=$(TZ=Europe/Lisbon date +%H:%M)
           echo "Lisbon time: $local_time"
-          # Allow a 20-minute scheduling delay, but reject the other UTC candidate.
-          hour=$(TZ=Europe/Lisbon date +%H)
-          minute=$(TZ=Europe/Lisbon date +%M)
-          if [ "$hour" != "16" ] || [ "$minute" -lt 45 ]; then
-            echo "Not the 16:45 Lisbon run; skip this scheduled candidate."
-            exit 1
+          if [[ "$local_time" > "16:44" && "$local_time" < "17:15" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
           fi
 
   quotes:
     needs: schedule_gate
+    if: ${{ needs.schedule_gate.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -51,6 +56,7 @@ jobs:
 
   session:
     needs: schedule_gate
+    if: ${{ needs.schedule_gate.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -69,6 +75,7 @@ jobs:
 
   technical:
     needs: schedule_gate
+    if: ${{ needs.schedule_gate.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
