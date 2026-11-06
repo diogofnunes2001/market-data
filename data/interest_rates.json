@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-06T09:34:59.479744+00:00",
+  "generated_at_utc": "2026-11-06T09:37:45.127950+00:00",
   "status": "ok",
   "records": {
     "fed_target_lower": {
@@ -8,7 +8,7 @@
       "value": 3.75,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "Federal Reserve Bank of New York",
         "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/5.json",
@@ -28,7 +28,7 @@
       "value": 4.0,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "Federal Reserve Bank of New York",
         "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/5.json",
@@ -48,7 +48,7 @@
       "value": 3.88,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "Federal Reserve Bank of New York",
         "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/5.json",
@@ -68,7 +68,7 @@
       "value": 2.5,
       "unit": "percent_per_annum",
       "observation_date": "2026-09-16",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "European Central Bank",
         "url": "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.DFR.LEV?format=csvdata",
@@ -78,7 +78,7 @@
       "usable": true,
       "freshness": {
         "basis": "successful_query_of_current_change_event_series",
-        "checked_at_utc": "2026-11-06T09:34:59.479744+00:00",
+        "checked_at_utc": "2026-11-06T09:37:45.127950+00:00",
         "max_retrieval_age_hours": 36
       },
       "error": null,
@@ -89,7 +89,7 @@
       "value": 2.65,
       "unit": "percent_per_annum",
       "observation_date": "2026-09-16",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "European Central Bank",
         "url": "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.MRR_FR.LEV?format=csvdata",
@@ -99,7 +99,7 @@
       "usable": true,
       "freshness": {
         "basis": "successful_query_of_current_change_event_series",
-        "checked_at_utc": "2026-11-06T09:34:59.479744+00:00",
+        "checked_at_utc": "2026-11-06T09:37:45.127950+00:00",
         "max_retrieval_age_hours": 36
       },
       "error": null,
@@ -110,7 +110,7 @@
       "value": 2.9,
       "unit": "percent_per_annum",
       "observation_date": "2026-09-16",
-      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
       "source": {
         "name": "European Central Bank",
         "url": "https://data-api.ecb.europa.eu/service/data/FM/B.U2.EUR.4F.KR.MLFR.LEV?format=csvdata",
@@ -120,7 +120,7 @@
       "usable": true,
       "freshness": {
         "basis": "successful_query_of_current_change_event_series",
-        "checked_at_utc": "2026-11-06T09:34:59.479744+00:00",
+        "checked_at_utc": "2026-11-06T09:37:45.127950+00:00",
         "max_retrieval_age_hours": 36
       },
       "error": null,

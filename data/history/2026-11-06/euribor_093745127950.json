@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-06T09:37:45.127950+00:00",
+  "status": "ok",
+  "records": {
+    "euribor_1m": {
+      "kind": "observed",
+      "value": 2.451,
+      "unit": "percent_per_annum",
+      "observation_date": "2026-11-04",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "source": {
+        "name": "Bank of Finland / EMMI",
+        "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
+        "series_id": "1m ACT/360",
+        "publication_delay": "24 hours",
+        "terms_url": "https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/euribor-rates/"
+      },
+      "status": "fresh",
+      "usable": true,
+      "freshness": {
+        "age_weekdays": 2,
+        "max_age_weekdays": 3,
+        "calendar": "weekdays; allowance includes publication lag and holidays"
+      },
+      "error": null
+    },
+    "euribor_3m": {
+      "kind": "observed",
+      "value": 2.759,
+      "unit": "percent_per_annum",
+      "observation_date": "2026-11-04",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "source": {
+        "name": "Bank of Finland / EMMI",
+        "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
+        "series_id": "3m ACT/360",
+        "publication_delay": "24 hours",
+        "terms_url": "https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/euribor-rates/"
+      },
+      "status": "fresh",
+      "usable": true,
+      "freshness": {
+        "age_weekdays": 2,
+        "max_age_weekdays": 3,
+        "calendar": "weekdays; allowance includes publication lag and holidays"
+      },
+      "error": null
+    },
+    "euribor_6m": {
+      "kind": "observed",
+      "value": 3.008,
+      "unit": "percent_per_annum",
+      "observation_date": "2026-11-04",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "source": {
+        "name": "Bank of Finland / EMMI",
+        "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
+        "series_id": "6m ACT/360",
+        "publication_delay": "24 hours",
+        "terms_url": "https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/euribor-rates/"
+      },
+      "status": "fresh",
+      "usable": true,
+      "freshness": {
+        "age_weekdays": 2,
+        "max_age_weekdays": 3,
+        "calendar": "weekdays; allowance includes publication lag and holidays"
+      },
+      "error": null
+    },
+    "euribor_12m": {
+      "kind": "observed",
+      "value": 3.302,
+      "unit": "percent_per_annum",
+      "observation_date": "2026-11-04",
+      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "source": {
+        "name": "Bank of Finland / EMMI",
+        "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
+        "series_id": "12m ACT/360",
+        "publication_delay": "24 hours",
+        "terms_url": "https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/euribor-rates/"
+      },
+      "status": "fresh",
+      "usable": true,
+      "freshness": {
+        "age_weekdays": 2,
+        "max_age_weekdays": 3,
+        "calendar": "weekdays; allowance includes publication lag and holidays"
+      },
+      "error": null
+    }
+  },
+  "errors": {}
+}
