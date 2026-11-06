@@ -12,8 +12,8 @@ on:
       - '.github/workflows/update-macro.yml'
   workflow_dispatch:
   schedule:
-    # Morning refresh and a second collection after the US daily release.
-    - cron: '15 7,22 * * 1-5'
+    # UTC candidates for 16:35 Europe/Lisbon (DST-aware gate below).
+    - cron: '35 15,16 * * 1-5'
 
 permissions:
   contents: write
@@ -24,7 +24,31 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  schedule_gate:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Check Lisbon local time
+        id: check
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" != "schedule" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          local_time=$(TZ=Europe/Lisbon date +%H:%M)
+          echo "Lisbon time: $local_time"
+          if [[ "$local_time" > "16:29" && "$local_time" < "16:50" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
   collect:
+    needs: schedule_gate
+    if: ${{ needs.schedule_gate.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
