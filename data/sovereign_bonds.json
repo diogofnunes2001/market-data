@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-06T02:29:36.982595+00:00",
+  "generated_at_utc": "2026-11-06T09:34:59.479744+00:00",
   "status": "partial",
   "records": {
     "us_2y": {
@@ -8,7 +8,7 @@
       "value": 4.46,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "US Treasury",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value=2026",
@@ -28,7 +28,7 @@
       "value": 4.84,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "US Treasury",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value=2026",
@@ -48,7 +48,7 @@
       "value": 3.74,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-02",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "Banco de Portugal / LSEG",
         "url": "https://bpstat.bportugal.pt/data/v1/domains/26/datasets/690b7b36fd36c0dbe249c48cbbc39524/?series_ids=12099459&obs_since=2026-10-02",
@@ -68,7 +68,7 @@
       "value": 3.03,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "Deutsche Bundesbank",
         "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A610.000000WT0202.A?format=csv&lang=en&startPeriod=2026-10-02",
@@ -88,7 +88,7 @@
       "value": 3.27,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "Deutsche Bundesbank",
         "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A630.000000WT1010.A?format=csv&lang=en&startPeriod=2026-10-02",
@@ -108,7 +108,7 @@
       "value": 38.0,
       "unit": "basis_points",
       "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "Calculated from observed yields",
         "url": "https://github.com/diogofnunes2001/market-data",
@@ -141,7 +141,7 @@
       "value": null,
       "unit": "basis_points",
       "observation_date": null,
-      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
+      "retrieved_at_utc": "2026-11-06T09:34:59.479744+00:00",
       "source": {
         "name": "Calculated from observed yields",
         "url": "https://github.com/diogofnunes2001/market-data",
