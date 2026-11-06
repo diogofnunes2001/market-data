@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-11-05T17:57:11.805838+00:00",
+  "generated_at_utc": "2026-11-06T09:36:50.305633+00:00",
   "technical": {
     "SXR8.DE": {
       "symbol": "SXR8.DE",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 719.88,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 713.66,
       "high_52w_approx": 755.3,
       "low_52w_approx": 595.6,
-      "distance_from_52w_high_percent": -4.6895,
-      "distance_from_52w_low_percent": 20.8664,
-      "sma_50": 731.2928,
-      "sma_200": 684.1126,
+      "distance_from_52w_high_percent": -5.513,
+      "distance_from_52w_low_percent": 19.822,
+      "sma_50": 731.1684,
+      "sma_200": 684.0815,
       "returns_percent": {
-        "5_sessions": -3.5091,
-        "1_month_approx": -4.0953,
-        "3_months_approx": -0.5443,
-        "1_year_approx": 13.5314,
-        "ytd": 15.2287
+        "5_sessions": -4.3428,
+        "1_month_approx": -4.9239,
+        "3_months_approx": -1.4037,
+        "1_year_approx": 12.5505,
+        "ytd": 14.2331
       },
       "history_daily": [
         {
@@ -1056,28 +1056,28 @@
           "close": 738.44
         },
         {
-          "date": "2026-11-05",
-          "close": 719.88
+          "date": "2026-11-06",
+          "close": 713.66
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "EUNL.DE": {
       "symbol": "EUNL.DE",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 127.79,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 126.49,
       "high_52w_approx": 132.41,
       "low_52w_approx": 106.97,
-      "distance_from_52w_high_percent": -3.4892,
-      "distance_from_52w_low_percent": 19.4634,
-      "sma_50": 129.1478,
-      "sma_200": 121.7513,
+      "distance_from_52w_high_percent": -4.471,
+      "distance_from_52w_low_percent": 18.2481,
+      "sma_50": 129.1218,
+      "sma_200": 121.7448,
       "returns_percent": {
-        "5_sessions": -2.7917,
-        "1_month_approx": -2.8102,
-        "3_months_approx": -0.7495,
-        "1_year_approx": 14.3688,
-        "ytd": 14.7952
+        "5_sessions": -3.7806,
+        "1_month_approx": -3.7989,
+        "3_months_approx": -1.7592,
+        "1_year_approx": 13.2053,
+        "ytd": 13.6274
       },
       "history_daily": [
         {
@@ -2117,34 +2117,30 @@
           "close": 130.48
         },
         {
-          "date": "2026-11-05",
-          "close": 127.79
+          "date": "2026-11-06",
+          "close": 126.49
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "GC=F": {
       "symbol": "GC=F",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 4111.8999,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 4087.8,
       "high_52w_approx": 5586.2002,
       "low_52w_approx": 3879.3,
-      "distance_from_52w_high_percent": -26.3918,
-      "distance_from_52w_low_percent": 5.9959,
-      "sma_50": 4242.172,
-      "sma_200": 4505.68,
+      "distance_from_52w_high_percent": -26.8232,
+      "distance_from_52w_low_percent": 5.3747,
+      "sma_50": 4230.68,
+      "sma_200": 4501.56,
       "returns_percent": {
-        "5_sessions": 1.9968,
-        "1_month_approx": -0.6955,
-        "3_months_approx": -6.5414,
-        "1_year_approx": 3.8227,
-        "ytd": -5.0282
+        "5_sessions": 4.845,
+        "1_month_approx": -1.6647,
+        "3_months_approx": -7.5096,
+        "1_year_approx": 2.3767,
+        "ytd": -5.5848
       },
       "history_daily": [
-        {
-          "date": "2025-10-24",
-          "close": 4137.7998
-        },
         {
           "date": "2025-10-27",
           "close": 4019.7
@@ -3179,33 +3175,33 @@
         },
         {
           "date": "2026-11-05",
-          "close": 4111.8999
+          "close": 4113.5
+        },
+        {
+          "date": "2026-11-06",
+          "close": 4087.8
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "SI=F": {
       "symbol": "SI=F",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 52.31,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 52.13,
       "high_52w_approx": 121.3,
-      "low_52w_approx": 47.56,
-      "distance_from_52w_high_percent": -56.8755,
-      "distance_from_52w_low_percent": 9.9874,
-      "sma_50": 60.3298,
-      "sma_200": 70.0736,
+      "low_52w_approx": 47.794,
+      "distance_from_52w_high_percent": -57.0239,
+      "distance_from_52w_low_percent": 9.0723,
+      "sma_50": 59.9823,
+      "sma_200": 69.854,
       "returns_percent": {
-        "5_sessions": 0.228,
-        "1_month_approx": -12.6697,
-        "3_months_approx": -17.4035,
-        "1_year_approx": 10.9909,
-        "ytd": -25.8603
+        "5_sessions": 6.1776,
+        "1_month_approx": -11.7398,
+        "3_months_approx": -19.9306,
+        "1_year_approx": 8.915,
+        "ytd": -26.1154
       },
       "history_daily": [
-        {
-          "date": "2025-10-24",
-          "close": 48.377
-        },
         {
           "date": "2025-10-27",
           "close": 46.562
@@ -4240,33 +4236,33 @@
         },
         {
           "date": "2026-11-05",
-          "close": 52.31
+          "close": 52.233
+        },
+        {
+          "date": "2026-11-06",
+          "close": 52.13
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "BZ=F": {
       "symbol": "BZ=F",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 97.52,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 96.94,
       "high_52w_approx": 126.1,
       "low_52w_approx": 58.72,
-      "distance_from_52w_high_percent": -22.6646,
-      "distance_from_52w_low_percent": 66.0763,
-      "sma_50": 104.0164,
-      "sma_200": 93.1679,
+      "distance_from_52w_high_percent": -23.1245,
+      "distance_from_52w_low_percent": 65.0886,
+      "sma_50": 104.1766,
+      "sma_200": 93.3361,
       "returns_percent": {
-        "5_sessions": -15.1114,
-        "1_month_approx": -2.6747,
-        "3_months_approx": 16.7205,
-        "1_year_approx": 51.3346,
-        "ytd": 60.5267
+        "5_sessions": -17.5961,
+        "1_month_approx": -7.0387,
+        "3_months_approx": 10.5107,
+        "1_year_approx": 52.6134,
+        "ytd": 59.572
       },
       "history_daily": [
-        {
-          "date": "2025-10-24",
-          "close": 65.94
-        },
         {
           "date": "2025-10-27",
           "close": 65.62
@@ -5301,33 +5297,33 @@
         },
         {
           "date": "2026-11-05",
-          "close": 97.52
+          "close": 98.29
+        },
+        {
+          "date": "2026-11-06",
+          "close": 96.94
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "CL=F": {
       "symbol": "CL=F",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 90.56,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 89.14,
       "high_52w_approx": 119.48,
       "low_52w_approx": 54.98,
-      "distance_from_52w_high_percent": -24.2049,
-      "distance_from_52w_low_percent": 64.7144,
-      "sma_50": 95.3214,
-      "sma_200": 87.0002,
+      "distance_from_52w_high_percent": -25.3934,
+      "distance_from_52w_low_percent": 62.1317,
+      "sma_50": 95.4328,
+      "sma_200": 87.1489,
       "returns_percent": {
-        "5_sessions": -11.2157,
-        "1_month_approx": 2.5827,
-        "3_months_approx": 15.8352,
-        "1_year_approx": 49.5376,
-        "ytd": 57.9902
+        "5_sessions": -14.3872,
+        "1_month_approx": -2.5686,
+        "3_months_approx": 8.5353,
+        "1_year_approx": 49.5638,
+        "ytd": 55.5129
       },
       "history_daily": [
-        {
-          "date": "2025-10-24",
-          "close": 61.5
-        },
         {
           "date": "2025-10-27",
           "close": 61.31
@@ -6362,7 +6358,11 @@
         },
         {
           "date": "2026-11-05",
-          "close": 90.56
+          "close": 90.52
+        },
+        {
+          "date": "2026-11-06",
+          "close": 89.14
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -6370,19 +6370,19 @@
     "^IRX": {
       "symbol": "^IRX",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 3.998,
+      "daily_close": 3.987,
       "high_52w_approx": 4.147,
       "low_52w_approx": 3.507,
-      "distance_from_52w_high_percent": -3.593,
-      "distance_from_52w_low_percent": 14.0006,
-      "sma_50": 3.9696,
-      "sma_200": 3.7176,
+      "distance_from_52w_high_percent": -3.8582,
+      "distance_from_52w_low_percent": 13.6869,
+      "sma_50": 3.9694,
+      "sma_200": 3.7175,
       "returns_percent": {
-        "5_sessions": 0.0,
-        "1_month_approx": -0.9661,
-        "3_months_approx": 7.7628,
-        "1_year_approx": 5.4047,
-        "ytd": 13.1616
+        "5_sessions": -0.2751,
+        "1_month_approx": -1.2385,
+        "3_months_approx": 7.4663,
+        "1_year_approx": 5.1147,
+        "ytd": 12.8503
       },
       "history_daily": [
         {
@@ -7423,7 +7423,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 3.998
+          "close": 3.987
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -7431,19 +7431,19 @@
     "^FVX": {
       "symbol": "^FVX",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 4.606,
+      "daily_close": 4.608,
       "high_52w_approx": 5.153,
       "low_52w_approx": 3.507,
-      "distance_from_52w_high_percent": -10.6152,
-      "distance_from_52w_low_percent": 31.3373,
+      "distance_from_52w_high_percent": -10.5764,
+      "distance_from_52w_low_percent": 31.3943,
       "sma_50": 4.8304,
       "sma_200": 4.2546,
       "returns_percent": {
-        "5_sessions": -4.0617,
-        "1_month_approx": -8.2653,
-        "3_months_approx": 5.5938,
-        "1_year_approx": 24.4528,
-        "ytd": 23.188
+        "5_sessions": -4.02,
+        "1_month_approx": -8.2255,
+        "3_months_approx": 5.6396,
+        "1_year_approx": 24.5069,
+        "ytd": 23.2415
       },
       "history_daily": [
         {
@@ -8484,7 +8484,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 4.606
+          "close": 4.608
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -8492,19 +8492,19 @@
     "^TNX": {
       "symbol": "^TNX",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 4.831,
+      "daily_close": 4.837,
       "high_52w_approx": 5.364,
       "low_52w_approx": 3.956,
-      "distance_from_52w_high_percent": -9.9366,
-      "distance_from_52w_low_percent": 22.1183,
-      "sma_50": 5.0294,
+      "distance_from_52w_high_percent": -9.8248,
+      "distance_from_52w_low_percent": 22.27,
+      "sma_50": 5.0295,
       "sma_200": 4.5602,
       "returns_percent": {
-        "5_sessions": -3.167,
-        "1_month_approx": -8.4518,
-        "3_months_approx": 3.6695,
-        "1_year_approx": 18.1462,
-        "ytd": 15.381
+        "5_sessions": -3.0467,
+        "1_month_approx": -8.3381,
+        "3_months_approx": 3.7983,
+        "1_year_approx": 18.293,
+        "ytd": 15.5242
       },
       "history_daily": [
         {
@@ -9545,7 +9545,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 4.831
+          "close": 4.837
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -9553,19 +9553,19 @@
     "^TYX": {
       "symbol": "^TYX",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 5.247,
+      "daily_close": 5.251,
       "high_52w_approx": 5.732,
       "low_52w_approx": 4.627,
-      "distance_from_52w_high_percent": -8.4613,
-      "distance_from_52w_low_percent": 13.3996,
-      "sma_50": 5.3997,
+      "distance_from_52w_high_percent": -8.3915,
+      "distance_from_52w_low_percent": 13.4861,
+      "sma_50": 5.3998,
       "sma_200": 5.0753,
       "returns_percent": {
-        "5_sessions": -1.5387,
-        "1_month_approx": -7.3132,
-        "3_months_approx": 0.6909,
-        "1_year_approx": 12.3555,
-        "ytd": 7.8742
+        "5_sessions": -1.4637,
+        "1_month_approx": -7.2425,
+        "3_months_approx": 0.7676,
+        "1_year_approx": 12.4411,
+        "ytd": 7.9564
       },
       "history_daily": [
         {
@@ -10606,7 +10606,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 5.247
+          "close": 5.251
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -10614,19 +10614,19 @@
     "^GSPC": {
       "symbol": "^GSPC",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 7394.1099,
+      "daily_close": 7353.73,
       "high_52w_approx": 7844.52,
       "low_52w_approx": 6316.9102,
-      "distance_from_52w_high_percent": -5.7417,
-      "distance_from_52w_low_percent": 17.0526,
-      "sma_50": 7687.3376,
-      "sma_200": 7322.9376,
+      "distance_from_52w_high_percent": -6.2565,
+      "distance_from_52w_low_percent": 16.4134,
+      "sma_50": 7686.53,
+      "sma_200": 7322.7357,
       "returns_percent": {
-        "5_sessions": -4.2262,
-        "1_month_approx": -5.2252,
-        "3_months_approx": -4.6861,
-        "1_year_approx": 9.1938,
-        "ytd": 7.8099
+        "5_sessions": -4.7492,
+        "1_month_approx": -5.7428,
+        "3_months_approx": -5.2066,
+        "1_year_approx": 8.5974,
+        "ytd": 7.2211
       },
       "history_daily": [
         {
@@ -11667,7 +11667,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 7394.1099
+          "close": 7353.73
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -11675,19 +11675,19 @@
     "^IXIC": {
       "symbol": "^IXIC",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 24427.3828,
+      "daily_close": 24315.0,
       "high_52w_approx": 27722.75,
       "low_52w_approx": 20690.25,
-      "distance_from_52w_high_percent": -11.8869,
-      "distance_from_52w_low_percent": 18.0623,
-      "sma_50": 26499.3052,
-      "sma_200": 25093.1296,
+      "distance_from_52w_high_percent": -12.2923,
+      "distance_from_52w_low_percent": 17.5191,
+      "sma_50": 26497.0575,
+      "sma_200": 25092.5676,
       "returns_percent": {
-        "5_sessions": -6.7113,
-        "1_month_approx": -11.2979,
-        "3_months_approx": -8.4795,
-        "1_year_approx": 4.6201,
-        "ytd": 5.129
+        "5_sessions": -7.1405,
+        "1_month_approx": -11.706,
+        "3_months_approx": -8.9006,
+        "1_year_approx": 4.1388,
+        "ytd": 4.6453
       },
       "history_daily": [
         {
@@ -12728,7 +12728,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 24427.3828
+          "close": 24315.0
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -12736,19 +12736,19 @@
     "^SOX": {
       "symbol": "^SOX",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 9175.0146,
+      "daily_close": 9011.1396,
       "high_52w_approx": 14655.29,
       "low_52w_approx": 6160.0498,
-      "distance_from_52w_high_percent": -37.3945,
-      "distance_from_52w_low_percent": 48.9438,
-      "sma_50": 11747.7771,
-      "sma_200": 10825.2541,
+      "distance_from_52w_high_percent": -38.5127,
+      "distance_from_52w_low_percent": 46.2836,
+      "sma_50": 11744.4996,
+      "sma_200": 10824.4347,
       "returns_percent": {
-        "5_sessions": -20.3433,
-        "1_month_approx": -29.7803,
-        "3_months_approx": -25.7492,
-        "1_year_approx": 31.4553,
-        "ytd": 24.5341
+        "5_sessions": -21.7661,
+        "1_month_approx": -31.0345,
+        "3_months_approx": -27.0754,
+        "1_year_approx": 29.1074,
+        "ytd": 22.3098
       },
       "history_daily": [
         {
@@ -13789,7 +13789,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 9175.0146
+          "close": 9011.1396
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -13797,19 +13797,19 @@
     "NVDA": {
       "symbol": "NVDA",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 182.51,
+      "daily_close": 181.6,
       "high_52w_approx": 243.37,
       "low_52w_approx": 163.8954,
-      "distance_from_52w_high_percent": -25.0072,
-      "distance_from_52w_low_percent": 11.3576,
-      "sma_50": 220.6131,
-      "sma_200": 204.3843,
+      "distance_from_52w_high_percent": -25.3811,
+      "distance_from_52w_low_percent": 10.8024,
+      "sma_50": 220.5949,
+      "sma_200": 204.3798,
       "returns_percent": {
-        "5_sessions": -14.5792,
-        "1_month_approx": -23.144,
-        "3_months_approx": -18.4166,
-        "1_year_approx": -7.9233,
-        "ytd": -3.131
+        "5_sessions": -15.0051,
+        "1_month_approx": -23.5272,
+        "3_months_approx": -18.8234,
+        "1_year_approx": -8.3824,
+        "ytd": -3.614
       },
       "history_daily": [
         {
@@ -13838,7 +13838,7 @@
         },
         {
           "date": "2025-11-03",
-          "close": 206.3855
+          "close": 206.3856
         },
         {
           "date": "2025-11-04",
@@ -13906,7 +13906,7 @@
         },
         {
           "date": "2025-11-26",
-          "close": 179.8292
+          "close": 179.8291
         },
         {
           "date": "2025-11-28",
@@ -14034,7 +14034,7 @@
         },
         {
           "date": "2026-01-14",
-          "close": 182.7124
+          "close": 182.7125
         },
         {
           "date": "2026-01-15",
@@ -14106,7 +14106,7 @@
         },
         {
           "date": "2026-02-10",
-          "close": 188.0998
+          "close": 188.0999
         },
         {
           "date": "2026-02-11",
@@ -14182,7 +14182,7 @@
         },
         {
           "date": "2026-03-10",
-          "close": 184.3387
+          "close": 184.3386
         },
         {
           "date": "2026-03-11",
@@ -14190,7 +14190,7 @@
         },
         {
           "date": "2026-03-12",
-          "close": 182.7223
+          "close": 182.7224
         },
         {
           "date": "2026-03-13",
@@ -14214,7 +14214,7 @@
         },
         {
           "date": "2026-03-20",
-          "close": 172.3062
+          "close": 172.3061
         },
         {
           "date": "2026-03-23",
@@ -14250,7 +14250,7 @@
         },
         {
           "date": "2026-04-02",
-          "close": 176.9855
+          "close": 176.9854
         },
         {
           "date": "2026-04-06",
@@ -14850,7 +14850,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 182.51
+          "close": 181.6
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -14858,19 +14858,19 @@
     "AMD": {
       "symbol": "AMD",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 413.495,
+      "daily_close": 404.4,
       "high_52w_approx": 658.52,
       "low_52w_approx": 188.22,
-      "distance_from_52w_high_percent": -37.2084,
-      "distance_from_52w_low_percent": 119.6871,
-      "sma_50": 547.5483,
-      "sma_200": 415.0464,
+      "distance_from_52w_high_percent": -38.5896,
+      "distance_from_52w_low_percent": 114.855,
+      "sma_50": 547.3664,
+      "sma_200": 415.0009,
       "returns_percent": {
-        "5_sessions": -26.9985,
-        "1_month_approx": -35.9776,
-        "3_months_approx": -14.454,
-        "1_year_approx": 65.3649,
-        "ytd": 85.0338
+        "5_sessions": -28.6042,
+        "1_month_approx": -37.3858,
+        "3_months_approx": -16.3356,
+        "1_year_approx": 61.7277,
+        "ytd": 80.9639
       },
       "history_daily": [
         {
@@ -15911,7 +15911,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 413.495
+          "close": 404.4
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -15919,19 +15919,19 @@
     "QCOM": {
       "symbol": "QCOM",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 154.045,
+      "daily_close": 156.75,
       "high_52w_approx": 257.5618,
       "low_52w_approx": 120.8832,
-      "distance_from_52w_high_percent": -40.191,
-      "distance_from_52w_low_percent": 27.433,
-      "sma_50": 177.9482,
-      "sma_200": 168.5348,
+      "distance_from_52w_high_percent": -39.1408,
+      "distance_from_52w_low_percent": 29.6706,
+      "sma_50": 178.0023,
+      "sma_200": 168.5483,
       "returns_percent": {
-        "5_sessions": -16.9166,
-        "1_month_approx": -13.0279,
-        "3_months_approx": -7.7306,
-        "1_year_approx": -9.0182,
-        "ytd": -9.554
+        "5_sessions": -15.4576,
+        "1_month_approx": -11.5007,
+        "3_months_approx": -6.1104,
+        "1_year_approx": -7.4206,
+        "ytd": -7.9658
       },
       "history_daily": [
         {
@@ -15976,7 +15976,7 @@
         },
         {
           "date": "2025-11-07",
-          "close": 167.4038
+          "close": 167.4039
         },
         {
           "date": "2025-11-10",
@@ -16008,7 +16008,7 @@
         },
         {
           "date": "2025-11-19",
-          "close": 162.7214
+          "close": 162.7213
         },
         {
           "date": "2025-11-20",
@@ -16048,7 +16048,7 @@
         },
         {
           "date": "2025-12-04",
-          "close": 171.6659
+          "close": 171.666
         },
         {
           "date": "2025-12-05",
@@ -16060,7 +16060,7 @@
         },
         {
           "date": "2025-12-09",
-          "close": 173.2905
+          "close": 173.2906
         },
         {
           "date": "2025-12-10",
@@ -16120,7 +16120,7 @@
         },
         {
           "date": "2025-12-31",
-          "close": 168.4168
+          "close": 168.4167
         },
         {
           "date": "2026-01-02",
@@ -16132,11 +16132,11 @@
         },
         {
           "date": "2026-01-06",
-          "close": 179.6413
+          "close": 179.6412
         },
         {
           "date": "2026-01-07",
-          "close": 177.4161
+          "close": 177.416
         },
         {
           "date": "2026-01-08",
@@ -16144,7 +16144,7 @@
         },
         {
           "date": "2026-01-09",
-          "close": 175.0432
+          "close": 175.0431
         },
         {
           "date": "2026-01-12",
@@ -16172,7 +16172,7 @@
         },
         {
           "date": "2026-01-21",
-          "close": 153.9628
+          "close": 153.9627
         },
         {
           "date": "2026-01-22",
@@ -16284,7 +16284,7 @@
         },
         {
           "date": "2026-03-03",
-          "close": 136.0035
+          "close": 136.0036
         },
         {
           "date": "2026-03-04",
@@ -16328,7 +16328,7 @@
         },
         {
           "date": "2026-03-18",
-          "close": 129.2863
+          "close": 129.2862
         },
         {
           "date": "2026-03-19",
@@ -16440,7 +16440,7 @@
         },
         {
           "date": "2026-04-28",
-          "close": 148.6391
+          "close": 148.639
         },
         {
           "date": "2026-04-29",
@@ -16972,7 +16972,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 154.045
+          "close": 156.75
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -16980,19 +16980,19 @@
     "CRWV": {
       "symbol": "CRWV",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 42.17,
+      "daily_close": 43.66,
       "high_52w_approx": 138.25,
       "low_52w_approx": 40.58,
-      "distance_from_52w_high_percent": -69.4973,
-      "distance_from_52w_low_percent": 3.9182,
-      "sma_50": 76.3389,
-      "sma_200": 90.3942,
+      "distance_from_52w_high_percent": -68.4195,
+      "distance_from_52w_low_percent": 7.5899,
+      "sma_50": 76.3687,
+      "sma_200": 90.4016,
       "returns_percent": {
-        "5_sessions": -30.5729,
-        "1_month_approx": -52.3233,
-        "3_months_approx": -53.4907,
-        "1_year_approx": -63.568,
-        "ytd": -46.8356
+        "5_sessions": -28.1199,
+        "1_month_approx": -50.6388,
+        "3_months_approx": -51.8474,
+        "1_year_approx": -62.2808,
+        "ytd": -44.9571
       },
       "history_daily": [
         {
@@ -18033,7 +18033,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 42.17
+          "close": 43.66
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -18041,19 +18041,19 @@
     "APP": {
       "symbol": "APP",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 346.32,
+      "daily_close": 356.1,
       "high_52w_approx": 738.01,
       "low_52w_approx": 225.19,
-      "distance_from_52w_high_percent": -53.0738,
-      "distance_from_52w_low_percent": 53.7901,
-      "sma_50": 291.5878,
-      "sma_200": 409.9088,
+      "distance_from_52w_high_percent": -51.7486,
+      "distance_from_52w_low_percent": 58.1331,
+      "sma_50": 291.7834,
+      "sma_200": 409.9577,
       "returns_percent": {
-        "5_sessions": 35.8597,
-        "1_month_approx": 23.1185,
-        "3_months_approx": -0.1384,
-        "1_year_approx": -43.1031,
-        "ytd": -43.9902
+        "5_sessions": 39.6964,
+        "1_month_approx": 26.5953,
+        "3_months_approx": 2.6817,
+        "1_year_approx": -41.4964,
+        "ytd": -42.4085
       },
       "history_daily": [
         {
@@ -19094,33 +19094,29 @@
         },
         {
           "date": "2026-11-05",
-          "close": 346.32
+          "close": 356.1
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "ASML.AS": {
       "symbol": "ASML.AS",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 1250.0,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 1284.8,
       "high_52w_approx": 1736.5827,
       "low_52w_approx": 817.2078,
-      "distance_from_52w_high_percent": -28.0196,
-      "distance_from_52w_low_percent": 52.9599,
-      "sma_50": 1485.9276,
-      "sma_200": 1390.9776,
+      "distance_from_52w_high_percent": -26.0156,
+      "distance_from_52w_low_percent": 57.2183,
+      "sma_50": 1481.7756,
+      "sma_200": 1391.3505,
       "returns_percent": {
-        "5_sessions": -16.9325,
-        "1_month_approx": -22.266,
-        "3_months_approx": -17.3159,
-        "1_year_approx": 41.8333,
-        "ytd": 27.5105
+        "5_sessions": -9.06,
+        "1_month_approx": -21.1015,
+        "3_months_approx": -17.2124,
+        "1_year_approx": 45.7491,
+        "ytd": 31.0604
       },
       "history_daily": [
-        {
-          "date": "2025-10-30",
-          "close": 931.8077
-        },
         {
           "date": "2025-10-31",
           "close": 912.5255
@@ -19203,11 +19199,11 @@
         },
         {
           "date": "2025-11-28",
-          "close": 897.9147
+          "close": 897.9148
         },
         {
           "date": "2025-12-01",
-          "close": 921.0734
+          "close": 921.0733
         },
         {
           "date": "2025-12-02",
@@ -19215,7 +19211,7 @@
         },
         {
           "date": "2025-12-03",
-          "close": 957.5505
+          "close": 957.5504
         },
         {
           "date": "2025-12-04",
@@ -19227,7 +19223,7 @@
         },
         {
           "date": "2025-12-08",
-          "close": 957.3517
+          "close": 957.3516
         },
         {
           "date": "2025-12-09",
@@ -19235,7 +19231,7 @@
         },
         {
           "date": "2025-12-10",
-          "close": 940.2562
+          "close": 940.256
         },
         {
           "date": "2025-12-11",
@@ -19251,7 +19247,7 @@
         },
         {
           "date": "2025-12-16",
-          "close": 903.0831
+          "close": 903.0832
         },
         {
           "date": "2025-12-17",
@@ -19263,7 +19259,7 @@
         },
         {
           "date": "2025-12-19",
-          "close": 896.1256
+          "close": 896.1257
         },
         {
           "date": "2025-12-22",
@@ -19271,7 +19267,7 @@
         },
         {
           "date": "2025-12-23",
-          "close": 897.7159
+          "close": 897.716
         },
         {
           "date": "2025-12-24",
@@ -19291,11 +19287,11 @@
         },
         {
           "date": "2026-01-02",
-          "close": 980.3115
+          "close": 980.3113
         },
         {
           "date": "2026-01-05",
-          "close": 1046.8052
+          "close": 1046.8051
         },
         {
           "date": "2026-01-06",
@@ -19303,7 +19299,7 @@
         },
         {
           "date": "2026-01-07",
-          "close": 1045.4138
+          "close": 1045.4137
         },
         {
           "date": "2026-01-08",
@@ -19311,7 +19307,7 @@
         },
         {
           "date": "2026-01-09",
-          "close": 1075.0327
+          "close": 1075.0328
         },
         {
           "date": "2026-01-12",
@@ -19323,7 +19319,7 @@
         },
         {
           "date": "2026-01-14",
-          "close": 1077.6168
+          "close": 1077.6169
         },
         {
           "date": "2026-01-15",
@@ -19331,7 +19327,7 @@
         },
         {
           "date": "2026-01-16",
-          "close": 1160.1129
+          "close": 1160.113
         },
         {
           "date": "2026-01-19",
@@ -19339,35 +19335,35 @@
         },
         {
           "date": "2026-01-20",
-          "close": 1133.0782
+          "close": 1133.0781
         },
         {
           "date": "2026-01-21",
-          "close": 1147.7883
+          "close": 1147.7882
         },
         {
           "date": "2026-01-22",
-          "close": 1169.2572
+          "close": 1169.2571
         },
         {
           "date": "2026-01-23",
-          "close": 1171.0463
+          "close": 1171.0461
         },
         {
           "date": "2026-01-26",
-          "close": 1170.8474
+          "close": 1170.8475
         },
         {
           "date": "2026-01-27",
-          "close": 1210.2069
+          "close": 1210.207
         },
         {
           "date": "2026-01-28",
-          "close": 1187.1478
+          "close": 1187.1479
         },
         {
           "date": "2026-01-29",
-          "close": 1184.7625
+          "close": 1184.7623
         },
         {
           "date": "2026-01-30",
@@ -19383,11 +19379,11 @@
         },
         {
           "date": "2026-02-04",
-          "close": 1133.6744
+          "close": 1133.6746
         },
         {
           "date": "2026-02-05",
-          "close": 1142.6199
+          "close": 1142.6198
         },
         {
           "date": "2026-02-06",
@@ -19403,7 +19399,7 @@
         },
         {
           "date": "2026-02-11",
-          "close": 1202.0778
+          "close": 1202.0776
         },
         {
           "date": "2026-02-12",
@@ -19415,7 +19411,7 @@
         },
         {
           "date": "2026-02-16",
-          "close": 1189.3383
+          "close": 1189.3384
         },
         {
           "date": "2026-02-17",
@@ -19423,7 +19419,7 @@
         },
         {
           "date": "2026-02-18",
-          "close": 1238.9025
+          "close": 1238.9023
         },
         {
           "date": "2026-02-19",
@@ -19431,7 +19427,7 @@
         },
         {
           "date": "2026-02-20",
-          "close": 1249.6512
+          "close": 1249.6511
         },
         {
           "date": "2026-02-23",
@@ -19467,7 +19463,7 @@
         },
         {
           "date": "2026-03-05",
-          "close": 1180.381
+          "close": 1180.3809
         },
         {
           "date": "2026-03-06",
@@ -19475,11 +19471,11 @@
         },
         {
           "date": "2026-03-09",
-          "close": 1142.1628
+          "close": 1142.1627
         },
         {
           "date": "2026-03-10",
-          "close": 1194.3147
+          "close": 1194.3146
         },
         {
           "date": "2026-03-11",
@@ -19487,7 +19483,7 @@
         },
         {
           "date": "2026-03-12",
-          "close": 1174.8075
+          "close": 1174.8074
         },
         {
           "date": "2026-03-13",
@@ -19495,7 +19491,7 @@
         },
         {
           "date": "2026-03-16",
-          "close": 1191.7269
+          "close": 1191.7268
         },
         {
           "date": "2026-03-17",
@@ -19507,7 +19503,7 @@
         },
         {
           "date": "2026-03-19",
-          "close": 1163.0634
+          "close": 1163.0632
         },
         {
           "date": "2026-03-20",
@@ -19515,7 +19511,7 @@
         },
         {
           "date": "2026-03-23",
-          "close": 1169.8311
+          "close": 1169.8312
         },
         {
           "date": "2026-03-24",
@@ -19559,15 +19555,15 @@
         },
         {
           "date": "2026-04-09",
-          "close": 1228.9498
+          "close": 1228.9497
         },
         {
           "date": "2026-04-10",
-          "close": 1263.9828
+          "close": 1263.9829
         },
         {
           "date": "2026-04-13",
-          "close": 1253.8313
+          "close": 1253.8312
         },
         {
           "date": "2026-04-14",
@@ -19595,7 +19591,7 @@
         },
         {
           "date": "2026-04-22",
-          "close": 1243.8787
+          "close": 1243.8788
         },
         {
           "date": "2026-04-23",
@@ -20156,32 +20152,32 @@
         {
           "date": "2026-11-05",
           "close": 1250.0
+        },
+        {
+          "date": "2026-11-06",
+          "close": 1284.8
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "RHM.DE": {
       "symbol": "RHM.DE",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 841.5,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 814.1,
       "high_52w_approx": 1946.543,
-      "low_52w_approx": 818.7,
-      "distance_from_52w_high_percent": -56.7695,
-      "distance_from_52w_low_percent": 2.7849,
-      "sma_50": 1008.13,
-      "sma_200": 1245.7947,
+      "low_52w_approx": 807.1,
+      "distance_from_52w_high_percent": -58.1771,
+      "distance_from_52w_low_percent": 0.8673,
+      "sma_50": 1001.32,
+      "sma_200": 1240.7068,
       "returns_percent": {
-        "5_sessions": -19.7195,
-        "1_month_approx": -9.1449,
-        "3_months_approx": -26.3264,
-        "1_year_approx": -50.2394,
-        "ytd": -46.9469
+        "5_sessions": -21.5401,
+        "1_month_approx": -12.9212,
+        "3_months_approx": -28.7253,
+        "1_year_approx": -52.9881,
+        "ytd": -48.6743
       },
       "history_daily": [
-        {
-          "date": "2025-10-28",
-          "close": 1727.7301
-        },
         {
           "date": "2025-10-29",
           "close": 1713.8688
@@ -21217,32 +21213,32 @@
         {
           "date": "2026-11-05",
           "close": 841.5
+        },
+        {
+          "date": "2026-11-06",
+          "close": 814.1
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "MT.AS": {
       "symbol": "MT.AS",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 54.5,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 56.32,
       "high_52w_approx": 68.56,
       "low_52w_approx": 33.0089,
-      "distance_from_52w_high_percent": -20.5076,
-      "distance_from_52w_low_percent": 65.1071,
-      "sma_50": 59.5516,
-      "sma_200": 55.4853,
+      "distance_from_52w_high_percent": -17.853,
+      "distance_from_52w_low_percent": 70.6208,
+      "sma_50": 59.386,
+      "sma_200": 55.5373,
       "returns_percent": {
-        "5_sessions": -0.5111,
-        "1_month_approx": -1.9431,
-        "3_months_approx": -15.1355,
-        "1_year_approx": 62.9582,
-        "ytd": 37.7688
+        "5_sessions": 5.0746,
+        "1_month_approx": 3.8731,
+        "3_months_approx": -12.2468,
+        "1_year_approx": 66.1985,
+        "ytd": 42.3695
       },
       "history_daily": [
-        {
-          "date": "2025-10-30",
-          "close": 32.8928
-        },
         {
           "date": "2025-10-31",
           "close": 32.6467
@@ -21509,7 +21505,7 @@
         },
         {
           "date": "2026-02-05",
-          "close": 48.6399
+          "close": 48.64
         },
         {
           "date": "2026-02-06",
@@ -21569,7 +21565,7 @@
         },
         {
           "date": "2026-02-26",
-          "close": 55.3902
+          "close": 55.3901
         },
         {
           "date": "2026-02-27",
@@ -22278,32 +22274,32 @@
         {
           "date": "2026-11-05",
           "close": 54.5
+        },
+        {
+          "date": "2026-11-06",
+          "close": 56.32
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
     },
     "^VIX": {
       "symbol": "^VIX",
-      "last_daily_bar_date": "2026-11-05",
-      "daily_close": 26.29,
+      "last_daily_bar_date": "2026-11-06",
+      "daily_close": 26.11,
       "high_52w_approx": 35.3,
       "low_52w_approx": 13.38,
-      "distance_from_52w_high_percent": -25.5241,
-      "distance_from_52w_low_percent": 96.4873,
-      "sma_50": 16.66,
-      "sma_200": 18.339,
+      "distance_from_52w_high_percent": -26.034,
+      "distance_from_52w_low_percent": 95.142,
+      "sma_50": 16.9314,
+      "sma_200": 18.3983,
       "returns_percent": {
-        "5_sessions": 52.8488,
-        "1_month_approx": 74.3369,
-        "3_months_approx": 70.0518,
-        "1_year_approx": 34.8205,
-        "ytd": 81.1854
+        "5_sessions": 34.449,
+        "1_month_approx": 69.4354,
+        "3_months_approx": 70.877,
+        "1_year_approx": 36.8449,
+        "ytd": 79.9449
       },
       "history_daily": [
-        {
-          "date": "2025-10-28",
-          "close": 16.42
-        },
         {
           "date": "2025-10-29",
           "close": 16.92
@@ -23338,7 +23334,11 @@
         },
         {
           "date": "2026-11-05",
-          "close": 26.29
+          "close": 28.18
+        },
+        {
+          "date": "2026-11-06",
+          "close": 26.11
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -23346,24 +23346,24 @@
     "MSFT": {
       "symbol": "MSFT",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 540.345,
+      "daily_close": 535.93,
       "high_52w_approx": 559.15,
       "low_52w_approx": 348.5439,
-      "distance_from_52w_high_percent": -3.3631,
-      "distance_from_52w_low_percent": 55.0293,
-      "sma_50": 516.2231,
-      "sma_200": 438.4567,
+      "distance_from_52w_high_percent": -4.1527,
+      "distance_from_52w_low_percent": 53.7626,
+      "sma_50": 516.1348,
+      "sma_200": 438.4346,
       "returns_percent": {
-        "5_sessions": 1.925,
-        "1_month_approx": 1.9981,
-        "3_months_approx": 8.2746,
-        "1_year_approx": 5.9224,
-        "ytd": 14.9772
+        "5_sessions": 1.0922,
+        "1_month_approx": 1.1647,
+        "3_months_approx": 7.3899,
+        "1_year_approx": 5.057,
+        "ytd": 14.0377
       },
       "history_daily": [
         {
           "date": "2025-10-24",
-          "close": 519.337
+          "close": 519.3371
         },
         {
           "date": "2025-10-27",
@@ -23375,7 +23375,7 @@
         },
         {
           "date": "2025-10-29",
-          "close": 537.1307
+          "close": 537.1306
         },
         {
           "date": "2025-10-30",
@@ -23415,7 +23415,7 @@
         },
         {
           "date": "2025-11-12",
-          "close": 506.9689
+          "close": 506.9688
         },
         {
           "date": "2025-11-13",
@@ -23451,7 +23451,7 @@
         },
         {
           "date": "2025-11-25",
-          "close": 473.9829
+          "close": 473.983
         },
         {
           "date": "2025-11-26",
@@ -23499,11 +23499,11 @@
         },
         {
           "date": "2025-12-12",
-          "close": 475.5132
+          "close": 475.5133
         },
         {
           "date": "2025-12-15",
-          "close": 471.8267
+          "close": 471.8266
         },
         {
           "date": "2025-12-16",
@@ -23543,11 +23543,11 @@
         },
         {
           "date": "2025-12-30",
-          "close": 484.4068
+          "close": 484.4069
         },
         {
           "date": "2025-12-31",
-          "close": 480.5712
+          "close": 480.5711
         },
         {
           "date": "2026-01-02",
@@ -23555,7 +23555,7 @@
         },
         {
           "date": "2026-01-05",
-          "close": 469.8691
+          "close": 469.869
         },
         {
           "date": "2026-01-06",
@@ -23579,7 +23579,7 @@
         },
         {
           "date": "2026-01-13",
-          "close": 467.7028
+          "close": 467.7029
         },
         {
           "date": "2026-01-14",
@@ -23623,7 +23623,7 @@
         },
         {
           "date": "2026-01-29",
-          "close": 430.7672
+          "close": 430.7671
         },
         {
           "date": "2026-01-30",
@@ -23635,7 +23635,7 @@
         },
         {
           "date": "2026-02-03",
-          "close": 408.6176
+          "close": 408.6177
         },
         {
           "date": "2026-02-04",
@@ -23691,7 +23691,7 @@
         },
         {
           "date": "2026-02-24",
-          "close": 387.43
+          "close": 387.4299
         },
         {
           "date": "2026-02-25",
@@ -23811,11 +23811,11 @@
         },
         {
           "date": "2026-04-08",
-          "close": 372.8192
+          "close": 372.8191
         },
         {
           "date": "2026-04-09",
-          "close": 371.5643
+          "close": 371.5642
         },
         {
           "date": "2026-04-10",
@@ -23847,7 +23847,7 @@
         },
         {
           "date": "2026-04-21",
-          "close": 422.4481
+          "close": 422.448
         },
         {
           "date": "2026-04-22",
@@ -24399,7 +24399,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 540.345
+          "close": 535.93
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -24407,19 +24407,19 @@
     "AMZN": {
       "symbol": "AMZN",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 260.99,
+      "daily_close": 260.21,
       "high_52w_approx": 287.2,
       "low_52w_approx": 196.0,
-      "distance_from_52w_high_percent": -9.1261,
-      "distance_from_52w_low_percent": 33.1582,
-      "sma_50": 253.905,
-      "sma_200": 243.8193,
+      "distance_from_52w_high_percent": -9.3976,
+      "distance_from_52w_low_percent": 32.7602,
+      "sma_50": 253.8894,
+      "sma_200": 243.8154,
       "returns_percent": {
-        "5_sessions": 7.0553,
-        "1_month_approx": 0.4117,
-        "3_months_approx": -4.9148,
-        "1_year_approx": 4.6807,
-        "ytd": 15.2274
+        "5_sessions": 6.7353,
+        "1_month_approx": 0.1116,
+        "3_months_approx": -5.1989,
+        "1_year_approx": 4.3679,
+        "ytd": 14.883
       },
       "history_daily": [
         {
@@ -25460,7 +25460,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 260.99
+          "close": 260.21
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
@@ -25468,19 +25468,19 @@
     "TSLA": {
       "symbol": "TSLA",
       "last_daily_bar_date": "2026-11-05",
-      "daily_close": 340.45,
+      "daily_close": 343.69,
       "high_52w_approx": 498.83,
       "low_52w_approx": 297.38,
-      "distance_from_52w_high_percent": -31.7503,
-      "distance_from_52w_low_percent": 14.4832,
-      "sma_50": 372.0042,
-      "sma_200": 384.3046,
+      "distance_from_52w_high_percent": -31.1008,
+      "distance_from_52w_low_percent": 15.5727,
+      "sma_50": 372.069,
+      "sma_200": 384.3208,
       "returns_percent": {
-        "5_sessions": -15.5839,
-        "1_month_approx": -9.8886,
-        "3_months_approx": 3.6125,
-        "1_year_approx": -23.3669,
-        "ytd": -22.2841
+        "5_sessions": -14.7806,
+        "1_month_approx": -9.031,
+        "3_months_approx": 4.5986,
+        "1_year_approx": -22.6376,
+        "ytd": -21.5445
       },
       "history_daily": [
         {
@@ -26521,7 +26521,7 @@
         },
         {
           "date": "2026-11-05",
-          "close": 340.45
+          "close": 343.69
         }
       ],
       "source": "Yahoo Finance via yfinance; adjusted daily bars; unofficial"
