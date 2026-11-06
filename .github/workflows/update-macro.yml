@@ -86,5 +86,15 @@ jobs:
           # Rebase over a concurrent user edit; never force-push or overwrite it.
           git pull --rebase origin main
           git push origin HEAD:main
-      - name: Report provider health
+      # Health warnings must remain visible without marking successful collection/publishing as failed.
+      # Contract validation above remains strict and can still fail the workflow.
+      - name: Report provider health (non-blocking)
+        id: provider_health
+        continue-on-error: true
         run: python scripts/validate_macro.py --health
+      - name: Summarize provider health warning
+        if: ${{ steps.provider_health.outcome == 'failure' }}
+        run: |
+          echo "::warning::One or more official macro series are stale or unavailable. Data contracts were validated and published; inspect sovereign_bonds.json errors before using affected values."
+          echo "### Provider health warning" >> "$GITHUB_STEP_SUMMARY"
+          echo "Collection, contract validation and publication succeeded. At least one provider series is stale or unavailable; affected records remain marked unusable in the JSON." >> "$GITHUB_STEP_SUMMARY"
