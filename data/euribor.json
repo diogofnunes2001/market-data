@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-05T17:44:15.038760+00:00",
+  "generated_at_utc": "2026-11-06T02:29:36.982595+00:00",
   "status": "ok",
   "records": {
     "euribor_1m": {
@@ -8,7 +8,7 @@
       "value": 2.451,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-05T17:44:15.038760+00:00",
+      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
       "source": {
         "name": "Bank of Finland / EMMI",
         "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
@@ -19,7 +19,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -30,7 +30,7 @@
       "value": 2.759,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-05T17:44:15.038760+00:00",
+      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
       "source": {
         "name": "Bank of Finland / EMMI",
         "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
@@ -41,7 +41,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -52,7 +52,7 @@
       "value": 3.008,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-05T17:44:15.038760+00:00",
+      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
       "source": {
         "name": "Bank of Finland / EMMI",
         "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
@@ -63,7 +63,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -74,7 +74,7 @@
       "value": 3.302,
       "unit": "percent_per_annum",
       "observation_date": "2026-11-04",
-      "retrieved_at_utc": "2026-11-05T17:44:15.038760+00:00",
+      "retrieved_at_utc": "2026-11-06T02:29:36.982595+00:00",
       "source": {
         "name": "Bank of Finland / EMMI",
         "url": "https://reports.suomenpankki.fi/WebForms/ReportViewerPage.aspx?output=xml&report=%2Ftilastot%2Fmarkkina-_ja_hallinnolliset_korot%2Feuribor_korot_today_xml_en",
@@ -85,7 +85,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
