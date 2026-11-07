@@ -24,10 +24,10 @@
     "TSLA",
     "APP",
     "NET",
-    "ABNB",
+    "BRK-B",
     "LRCX"
   ],
-  "updated_for": "2026-11-06",
+  "updated_for": "2026-11-07",
   "selection_reasons": {
     "SXR8.DE": "ETF permanente S&P 500",
     "EUNL.DE": "ETF permanente MSCI World",
@@ -52,7 +52,7 @@
     "TSLA": "Tesla: recuperação pós-selloff e notícia sobre planos do Cybertruck, IBD 06/11",
     "APP": "AppLovin: comparar força após resultados com reversão da tecnologia, Barron's 06/11",
     "NET": "Cloudflare: subida após crescimento de receita de 39% e melhoria de guidance, Barron's 06/11",
-    "ABNB": "Airbnb: subida após aumento da previsão de crescimento das receitas em 2026, Reuters 06/11",
-    "LRCX": "Lam Research: recuperação dos semicondutores e recompra de ações até 25 mil milhões USD, Barron's 06/11"
+    "LRCX": "Lam Research: recuperação dos semicondutores e recompra de ações até 25 mil milhões USD, Barron's 06/11",
+    "BRK-B": "Berkshire Hathaway: resultados do 3.º trimestre divulgados em 07/11, lucro operacional -6%, recompras de 9,6 mil milhões USD no trimestre; Reuters 07/11"
   }
 }
