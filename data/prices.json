@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T16:53:23.650446+00:00",
+  "generated_at_utc": "2026-11-08T16:50:01.653895+00:00",
   "quotes": {
     "SXR8.DE": {
       "symbol": "SXR8.DE",
@@ -265,15 +265,15 @@
       "bar_interval": "1m",
       "source": "Yahoo Finance via yfinance (unofficial; may be delayed)"
     },
-    "NET": {
-      "symbol": "NET",
-      "currency": "USD",
-      "price": 268.67,
-      "previous_close": 244.51,
-      "change": 24.16,
-      "change_percent": 9.881,
-      "last_bar_time_lisbon": "2026-11-06T20:59:00+00:00",
-      "last_bar_time_utc": "2026-11-06T20:59:00+00:00",
+    "^NSEI": {
+      "symbol": "^NSEI",
+      "currency": "INR",
+      "price": 24986.4004,
+      "previous_close": 25030.3496,
+      "change": -43.9492,
+      "change_percent": -0.1756,
+      "last_bar_time_lisbon": "2026-11-08T10:00:00+00:00",
+      "last_bar_time_utc": "2026-11-08T10:00:00+00:00",
       "bar_interval": "1m",
       "source": "Yahoo Finance via yfinance (unofficial; may be delayed)"
     },
@@ -292,10 +292,10 @@
     "LRCX": {
       "symbol": "LRCX",
       "currency": "USD",
-      "price": 200.35,
+      "price": 200.37,
       "previous_close": 185.2,
-      "change": 15.15,
-      "change_percent": 8.1804,
+      "change": 15.17,
+      "change_percent": 8.1911,
       "last_bar_time_lisbon": "2026-11-06T20:59:00+00:00",
       "last_bar_time_utc": "2026-11-06T20:59:00+00:00",
       "bar_interval": "1m",
