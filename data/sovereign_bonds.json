@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-06T09:37:45.127950+00:00",
+  "generated_at_utc": "2026-11-12T17:13:59.872960+00:00",
   "status": "partial",
   "records": {
     "us_2y": {
       "kind": "observed",
-      "value": 4.46,
+      "value": 4.73,
       "unit": "percent_per_annum",
-      "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-10",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "US Treasury",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value=2026",
@@ -17,7 +17,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -25,10 +25,10 @@
     },
     "us_10y": {
       "kind": "observed",
-      "value": 4.84,
+      "value": 4.98,
       "unit": "percent_per_annum",
-      "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-10",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "US Treasury",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/pages/xml?data=daily_treasury_yield_curve&field_tdr_date_value=2026",
@@ -37,7 +37,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -45,13 +45,13 @@
     },
     "pt_10y": {
       "kind": "observed",
-      "value": 3.74,
+      "value": 3.69,
       "unit": "percent_per_annum",
-      "observation_date": "2026-11-02",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-06",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "Banco de Portugal / LSEG",
-        "url": "https://bpstat.bportugal.pt/data/v1/domains/26/datasets/690b7b36fd36c0dbe249c48cbbc39524/?series_ids=12099459&obs_since=2026-10-02",
+        "url": "https://bpstat.bportugal.pt/data/v1/domains/26/datasets/690b7b36fd36c0dbe249c48cbbc39524/?series_ids=12099459&obs_since=2026-10-08",
         "series_id": "12099459"
       },
       "status": "stale",
@@ -65,19 +65,19 @@
     },
     "de_2y": {
       "kind": "observed",
-      "value": 3.03,
+      "value": 3.08,
       "unit": "percent_per_annum",
-      "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-12",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "Deutsche Bundesbank",
-        "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A610.000000WT0202.A?format=csv&lang=en&startPeriod=2026-10-02",
+        "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A610.000000WT0202.A?format=csv&lang=en&startPeriod=2026-10-08",
         "series_id": "D.REN.EUR.A610.000000WT0202.A"
       },
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 0,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -85,19 +85,19 @@
     },
     "de_10y": {
       "kind": "observed",
-      "value": 3.27,
+      "value": 3.29,
       "unit": "percent_per_annum",
-      "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-12",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "Deutsche Bundesbank",
-        "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A630.000000WT1010.A?format=csv&lang=en&startPeriod=2026-10-02",
+        "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A630.000000WT1010.A?format=csv&lang=en&startPeriod=2026-10-08",
         "series_id": "D.REN.EUR.A630.000000WT1010.A"
       },
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 0,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -105,10 +105,10 @@
     },
     "us_2s10s": {
       "kind": "derived",
-      "value": 38.0,
+      "value": 25.0,
       "unit": "basis_points",
-      "observation_date": "2026-11-05",
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "observation_date": "2026-11-10",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "Calculated from observed yields",
         "url": "https://github.com/diogofnunes2001/market-data",
@@ -129,7 +129,7 @@
       "status": "fresh",
       "usable": true,
       "freshness": {
-        "age_weekdays": 1,
+        "age_weekdays": 2,
         "max_age_weekdays": 3,
         "calendar": "weekdays; allowance includes publication lag and holidays"
       },
@@ -141,7 +141,7 @@
       "value": null,
       "unit": "basis_points",
       "observation_date": null,
-      "retrieved_at_utc": "2026-11-06T09:37:45.127950+00:00",
+      "retrieved_at_utc": "2026-11-12T17:13:59.872960+00:00",
       "source": {
         "name": "Calculated from observed yields",
         "url": "https://github.com/diogofnunes2001/market-data",
@@ -149,12 +149,12 @@
         "inputs": {
           "pt_10y": {
             "name": "Banco de Portugal / LSEG",
-            "url": "https://bpstat.bportugal.pt/data/v1/domains/26/datasets/690b7b36fd36c0dbe249c48cbbc39524/?series_ids=12099459&obs_since=2026-10-02",
+            "url": "https://bpstat.bportugal.pt/data/v1/domains/26/datasets/690b7b36fd36c0dbe249c48cbbc39524/?series_ids=12099459&obs_since=2026-10-08",
             "series_id": "12099459"
           },
           "de_10y": {
             "name": "Deutsche Bundesbank",
-            "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A630.000000WT1010.A?format=csv&lang=en&startPeriod=2026-10-02",
+            "url": "https://api.statistiken.bundesbank.de/rest/data/BBSSY/D.REN.EUR.A630.000000WT1010.A?format=csv&lang=en&startPeriod=2026-10-08",
             "series_id": "D.REN.EUR.A630.000000WT1010.A"
           }
         }
@@ -165,12 +165,12 @@
       "error": "Input missing or stale",
       "input_observations": {
         "pt_10y": {
-          "value": 3.74,
-          "observation_date": "2026-11-02"
+          "value": 3.69,
+          "observation_date": "2026-11-06"
         },
         "de_10y": {
-          "value": 3.31,
-          "observation_date": "2026-11-02"
+          "value": 3.22,
+          "observation_date": "2026-11-06"
         }
       }
     }
