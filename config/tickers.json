@@ -25,9 +25,9 @@
     "NBIS",
     "CRWV",
     "AMAT",
-    "CBRS"
+    "^FTSE"
   ],
-  "updated_for": "2026-11-13",
+  "updated_for": "2026-11-14",
   "selection_reasons": {
     "SXR8.DE": "ETF permanente S&P 500",
     "EUNL.DE": "ETF permanente MSCI World",
@@ -39,13 +39,13 @@
     "^FVX": "Índice de rendimento Treasury EUA 5 anos (verificar escala e unidade)",
     "^TNX": "Índice de rendimento Treasury EUA 10 anos (verificar escala e unidade)",
     "^TYX": "Índice de rendimento Treasury EUA 30 anos (verificar escala e unidade)",
-    "^GSPC": "S&P 500: queda intradiária com inflação PPI e pressão de yields; AP/WSJ 13/11/2026",
-    "^IXIC": "Nasdaq: nova venda de tecnologia e IA após turbulência Nvidia; AP 13/11/2026",
+    "^GSPC": "S&P 500: balanço semanal e expectativas de juros Fed após comentários de Collins (Reuters/Barron's 14/11/2026).",
+    "^IXIC": "Nasdaq: pressão de sexta na tecnologia e próximos resultados Nvidia, apesar da recuperação semanal (Barron's 14/11/2026).",
     "^SOX": "Semicondutores: divergência Cerebras versus Nvidia/AMD/Broadcom; Reuters/AP 13/11/2026",
-    "^VIX": "Volatilidade associada à inflação, juros Fed e crise de liderança Nvidia; WSJ 13/11/2026",
+    "^VIX": "Volatilidade de mercado: Fed mais restritiva, sucessão Nvidia e próximos resultados/IPO de IA (Reuters/Barron's 14/11/2026).",
     "^N225": "Nikkei: referência asiática, alta de 0,53% na sessão de sexta; Barron's 13/11/2026",
     "^KS11": "KOSPI: cadeia asiática de memória e semicondutores afetada pela volatilidade IA; Reuters 13/11/2026",
-    "NVDA": "Nvidia: sucessão após saída de Jensen Huang, sexta semana de perdas e resultados na próxima semana; Reuters 13/11/2026",
+    "NVDA": "Nvidia: saída de Jensen Huang e resultados previstos para 17/11; pressão sobre ações e avaliação da infraestrutura IA (Barron's 14/11/2026).",
     "AMD": "AMD: concorrência em aceleradores IA e queda acentuada na sessão; AP 13/11/2026",
     "AVGO": "Broadcom: pressão em chips de IA apesar da oportunidade concorrencial Nvidia; AP 13/11/2026",
     "ASML.AS": "ASML: exposição europeia a equipamentos semicondutores e fluxos recorde para ações europeias; Reuters 13/11/2026",
@@ -53,6 +53,6 @@
     "NBIS": "Nebius: risco de capacidade e financiamento de centros de dados após revisão de receitas; Reuters 12-13/11/2026",
     "CRWV": "CoreWeave: exposição a financiamento e procura de centros de dados IA, setor sob pressão; Reuters 13/11/2026",
     "AMAT": "Applied Materials: leitura dos resultados e perspetivas de equipamentos, packaging e memória IA; WSJ 13/11/2026",
-    "CBRS": "Cerebras Systems: resultados acima das expectativas, aumento de guidance e forte valorização; ticker confirmado pelo emissor, Reuters 13/11/2026"
+    "^FTSE": "FTSE 100: Banco de Inglaterra sinalizou em 14/11/2026 possíveis subidas adicionais de juros em 2027; sensibilidade de ações britânicas a inflação e taxas (Reuters/FT 14/11)."
   }
 }
