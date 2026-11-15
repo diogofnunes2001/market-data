@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T16:51:10.530210+00:00",
+  "generated_at_utc": "2026-11-15T16:55:13.325449+00:00",
   "sessions": {
     "SXR8.DE": {
       "symbol": "SXR8.DE",
@@ -20,15 +20,15 @@
     "EUNL.DE": {
       "symbol": "EUNL.DE",
       "session_date_exchange": "2026-11-13",
-      "open": 130.9,
+      "open": 130.905,
       "high": 131.755,
       "low": 129.85,
       "last": 130.45,
       "session_range_percent": 1.4671,
-      "from_open_percent": -0.3438,
+      "from_open_percent": -0.3476,
       "below_session_high_percent": -0.9905,
       "above_session_low_percent": 0.4621,
-      "volume": 307672,
+      "volume": 308365,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T16:29:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -76,7 +76,7 @@
       "from_open_percent": 0.3035,
       "below_session_high_percent": -1.318,
       "above_session_low_percent": 0.7146,
-      "volume": 20258,
+      "volume": 42337,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T21:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -268,7 +268,7 @@
       "from_open_percent": -4.1615,
       "below_session_high_percent": -4.2235,
       "above_session_low_percent": 2.797,
-      "volume": 3672048344,
+      "volume": 4005408589,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -284,7 +284,7 @@
       "from_open_percent": -5.7494,
       "below_session_high_percent": -6.4846,
       "above_session_low_percent": 2.7076,
-      "volume": 100385676,
+      "volume": 226861711,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -295,12 +295,12 @@
       "open": 356.54,
       "high": 358.47,
       "low": 337.67,
-      "last": 346.62,
+      "last": 346.64,
       "session_range_percent": 6.1599,
-      "from_open_percent": -2.7823,
-      "below_session_high_percent": -3.3057,
-      "above_session_low_percent": 2.6505,
-      "volume": 41472904,
+      "from_open_percent": -2.7767,
+      "below_session_high_percent": -3.3001,
+      "above_session_low_percent": 2.6564,
+      "volume": 24908909,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -316,7 +316,7 @@
       "from_open_percent": -1.6471,
       "below_session_high_percent": -2.6067,
       "above_session_low_percent": 0.9357,
-      "volume": 496818,
+      "volume": 496479,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T16:29:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -332,7 +332,7 @@
       "from_open_percent": -2.2007,
       "below_session_high_percent": -2.3169,
       "above_session_low_percent": 1.8212,
-      "volume": 9846342,
+      "volume": 21739722,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -348,7 +348,7 @@
       "from_open_percent": -6.2419,
       "below_session_high_percent": -6.5822,
       "above_session_low_percent": 6.2477,
-      "volume": 46423924,
+      "volume": 110035832,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -356,15 +356,15 @@
     "CRWV": {
       "symbol": "CRWV",
       "session_date_exchange": "2026-11-13",
-      "open": 54.51,
+      "open": 56.01,
       "high": 56.36,
       "low": 49.25,
       "last": 53.1099,
       "session_range_percent": 14.4365,
-      "from_open_percent": -2.5685,
+      "from_open_percent": -5.1778,
       "below_session_high_percent": -5.7667,
       "above_session_low_percent": 7.8374,
-      "volume": 139196403,
+      "volume": 75692276,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"
@@ -380,7 +380,7 @@
       "from_open_percent": -1.63,
       "below_session_high_percent": -2.8776,
       "above_session_low_percent": 5.116,
-      "volume": 13170594,
+      "volume": 8280976,
       "volume_unit": "shares",
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "source": "Yahoo Finance via yfinance; unofficial, may be delayed"

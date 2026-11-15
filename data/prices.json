@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-14T16:51:11.995455+00:00",
+  "generated_at_utc": "2026-11-15T16:55:13.134277+00:00",
   "quotes": {
     "SXR8.DE": {
       "symbol": "SXR8.DE",
@@ -220,10 +220,10 @@
     "AVGO": {
       "symbol": "AVGO",
       "currency": "USD",
-      "price": 346.62,
+      "price": 346.64,
       "previous_close": 364.36,
-      "change": -17.74,
-      "change_percent": -4.8688,
+      "change": -17.72,
+      "change_percent": -4.8633,
       "last_bar_time_lisbon": "2026-11-13T20:59:00+00:00",
       "last_bar_time_utc": "2026-11-13T20:59:00+00:00",
       "bar_interval": "1m",
