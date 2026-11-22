@@ -27,7 +27,7 @@
     "BTC-USD",
     "^FTSE"
   ],
-  "updated_for": "2026-11-21",
+  "updated_for": "2026-11-22",
   "selection_reasons": {
     "SXR8.DE": "ETF permanente S&P 500",
     "EUNL.DE": "ETF permanente MSCI World",
@@ -39,20 +39,20 @@
     "^FVX": "Índice de rendimento Treasury EUA 5 anos (verificar escala e unidade)",
     "^TNX": "Índice de rendimento Treasury EUA 10 anos (verificar escala e unidade)",
     "^TYX": "Índice de rendimento Treasury EUA 30 anos (verificar escala e unidade)",
-    "^GSPC": "Aversão ao risco após correção de sexta-feira e expectativas de juros Fed; Reuters 21/11/2026.",
-    "^IXIC": "Correção tecnológica de sexta-feira, análise publicada em 21/11/2026 pela Reuters; mercado fechado sábado.",
+    "^GSPC": "S&P 500 em correção após forte queda semanal; foco na confiança dos consumidores e Black Friday; Reuters 20/11/2026, análise de 22/11.",
+    "^IXIC": "Nasdaq: correção de IA e dúvidas sobre retorno de investimento em infraestrutura; Reuters 20/11/2026; bolsa encerrada domingo.",
     "^SOX": "Correção de semicondutores e risco de novas restrições EUA-China; Reuters 21/11/2026.",
-    "^VIX": "Volatilidade após liquidação de sexta-feira; Reuters 21/11/2026; último fecho, não sessão de sábado.",
+    "^VIX": "Medida de volatilidade após forte aversão ao risco; fecho de sexta-feira 20/11, não preço de domingo; IBD 22/11/2026.",
     "^N225": "Nikkei: forte queda das bolsas japonesas na liquidação tecnológica asiática; AFP 20/11/2026.",
     "^KS11": "KOSPI: queda superior a 5% na sessão asiática e pressão em fabricantes de memória; AFP/Saxo 20/11/2026.",
-    "NVDA": "Investigação contabilística noticiada e forte queda na sessão de sexta-feira; Reuters 20–21/11/2026; restrições de chips EUA-China em foco.",
+    "NVDA": "Nvidia sob pressão apesar de resultados fortes e incerteza regulatória/contabilística; IBD 22/11/2026.",
     "AMD": "Exposição a restrições de exportação de chips após cimeira EUA-China; Reuters 21/11/2026.",
     "ASML.AS": "ASML: equipamento semicondutor sob pressão na queda europeia de tecnológicas; WSJ 20/11/2026.",
     "TSM": "Risco geopolítico Taiwan e cadeia de chips após cimeira EUA-China; Reuters 21/11/2026.",
     "^FTSE": "FTSE 100: pressão nas bolsas europeias e dados de vendas a retalho e financiamento público britânico; Guardian 20/11/2026.",
-    "ANT": "Anthropic: segundo dia de negociação após IPO de 19/11; correção após subida na estreia, teste direto às avaliações de IA; Reuters 20/11/2026.",
-    "BTC-USD": "Bitcoin: recuperação superior a 2% acima de USD 60 mil no sábado; Reuters 21/11/2026; mercado 24/7.",
-    "GOOGL": "Alphabet: proposta de imposto digital europeu de 3% sobre publicidade e intermediação online; Reuters 21/11/2026.",
-    "META": "Meta: exposição à proposta de imposto digital europeu sobre publicidade online; Reuters 21/11/2026."
+    "ANT": "Anthropic: desempenho pós-IPO em semana de forte correção da IA; Reuters 20/11/2026; bolsa encerrada domingo.",
+    "BTC-USD": "Bitcoin negociado 24/7: recuperação no sábado após mínimo de dois anos e forte volatilidade; Reuters 21/11/2026; acompanhar domingo 22/11.",
+    "GOOGL": "Alphabet: exposição a proposta de imposto digital europeu de 3% e riscos regulatórios; notícias de 21/11/2026.",
+    "META": "Meta: exposição a proposta de imposto digital europeu de 3% e mercado publicitário; notícias de 21/11/2026."
   }
 }
